@@ -23,7 +23,6 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 160px;
-
 }
 
 h4 {
@@ -81,7 +80,6 @@ a {
     background-color: transparent;
     color: black;
     text-decoration: underline;
-    text-transform: none;
 }
 
 .btn {
